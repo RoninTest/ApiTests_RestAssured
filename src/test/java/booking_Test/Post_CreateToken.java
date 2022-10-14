@@ -14,17 +14,7 @@ public class Post_CreateToken extends BookingUrl {
     Response response;
     Auth auth;
 
-   /* **********************************************
-                      REQUEST
-   *************************************************
-    URL : https://restful-booker.herokuapp.com/auth
-    "username" : "admin",
-    "password" : "password123"
-   *************************************************
-                      RESPONSE
-   *************************************************
-    "token": "6b033fb072bc032"
-   ********************************************** */
+
 
     @Test
     public void TestP001(){
