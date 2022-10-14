@@ -1,10 +1,9 @@
-package MoviesApi_Test;
+package moviesApi_Test;
 
 import baseURL_Store.MoviesUrl;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
 import jdk.jfr.Description;
 import org.json.JSONObject;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package MoviesApi_Test;
+package moviesApi_Test;
 
 import baseURL_Store.MoviesUrl;
 import io.restassured.http.ContentType;
